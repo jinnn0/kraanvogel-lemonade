@@ -10,8 +10,7 @@ const index = () => {
         <FeatureH1>Lomonade of the month</FeatureH1>
         <FeatureP>
           The "perfect lemon flavor" of Kraanvogel lemonade impressed our testers, who felt this
-          thirst-quencher came close to "homemade." Although a few thought it too sweet, most enjoyed its
-          "tangy," but balanced taste.
+          thirst-quencher came close to "homemade" and enjoyed its "tangy," but balanced taste.
         </FeatureP>
         <PrimaryButtonOutline>Order Now</PrimaryButtonOutline>
       </FeatureLeft>

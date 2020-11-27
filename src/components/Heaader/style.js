@@ -19,6 +19,6 @@ export const HeaderContainer = styled.header`
 export const Menu = styled(FaBars)`
   font-size: 1.5rem;
   position: fixed;
-  right: 20px;
+  right: 60px;
   cursor: pointer;
 `;

@@ -7,7 +7,7 @@ export const FooterContainer = styled.footer`
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
-  margin: 0 20px;
+  margin: 0 60px;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 
   @media (min-width: 600px) {

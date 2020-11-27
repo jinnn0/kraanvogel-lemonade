@@ -46,8 +46,8 @@ export const PrimaryButton = styled(Button)`
 `;
 
 export const PrimaryButtonOutline = styled(PrimaryButton)`
-  font-size: 1rem;
-  padding: 1rem 4rem;
+  font-size: 0.9rem;
+  padding: 0.7rem 2.4rem;
   background-color: transparent;
   border: 1px solid black;
 
