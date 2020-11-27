@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/kraanvogel/static/js/main.af90e252.chunk.js",
-    "main.js.map": "/kraanvogel/static/js/main.af90e252.chunk.js.map",
-    "runtime-main.js": "/kraanvogel/static/js/runtime-main.78910947.js",
-    "runtime-main.js.map": "/kraanvogel/static/js/runtime-main.78910947.js.map",
-    "static/js/2.5b109d78.chunk.js": "/kraanvogel/static/js/2.5b109d78.chunk.js",
-    "static/js/2.5b109d78.chunk.js.map": "/kraanvogel/static/js/2.5b109d78.chunk.js.map",
-    "index.html": "/kraanvogel/index.html",
-    "static/js/2.5b109d78.chunk.js.LICENSE.txt": "/kraanvogel/static/js/2.5b109d78.chunk.js.LICENSE.txt",
-    "static/media/both-3.0441c7b1.png": "/kraanvogel/static/media/both-3.0441c7b1.png",
-    "static/media/front-1.dbc76399.png": "/kraanvogel/static/media/front-1.dbc76399.png",
-    "static/media/front-2.ba7082d1.png": "/kraanvogel/static/media/front-2.ba7082d1.png",
-    "static/media/front-3.37f65cb6.png": "/kraanvogel/static/media/front-3.37f65cb6.png",
-    "static/media/kraanvogel.68c6eade.mp4": "/kraanvogel/static/media/kraanvogel.68c6eade.mp4"
+    "main.js": "/kraanvogel-lemonade/static/js/main.af90e252.chunk.js",
+    "main.js.map": "/kraanvogel-lemonade/static/js/main.af90e252.chunk.js.map",
+    "runtime-main.js": "/kraanvogel-lemonade/static/js/runtime-main.0a1fe50d.js",
+    "runtime-main.js.map": "/kraanvogel-lemonade/static/js/runtime-main.0a1fe50d.js.map",
+    "static/js/2.7236136f.chunk.js": "/kraanvogel-lemonade/static/js/2.7236136f.chunk.js",
+    "static/js/2.7236136f.chunk.js.map": "/kraanvogel-lemonade/static/js/2.7236136f.chunk.js.map",
+    "index.html": "/kraanvogel-lemonade/index.html",
+    "static/js/2.7236136f.chunk.js.LICENSE.txt": "/kraanvogel-lemonade/static/js/2.7236136f.chunk.js.LICENSE.txt",
+    "static/media/both-3.0441c7b1.png": "/kraanvogel-lemonade/static/media/both-3.0441c7b1.png",
+    "static/media/front-1.dbc76399.png": "/kraanvogel-lemonade/static/media/front-1.dbc76399.png",
+    "static/media/front-2.ba7082d1.png": "/kraanvogel-lemonade/static/media/front-2.ba7082d1.png",
+    "static/media/front-3.37f65cb6.png": "/kraanvogel-lemonade/static/media/front-3.37f65cb6.png",
+    "static/media/kraanvogel.68c6eade.mp4": "/kraanvogel-lemonade/static/media/kraanvogel.68c6eade.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.78910947.js",
-    "static/js/2.5b109d78.chunk.js",
+    "static/js/runtime-main.0a1fe50d.js",
+    "static/js/2.7236136f.chunk.js",
     "static/js/main.af90e252.chunk.js"
   ]
 }
